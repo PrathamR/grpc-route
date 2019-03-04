@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="generated"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-3.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-all-1.15.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-core-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-netty-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-protobuf-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-stub-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-common-protos-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-context-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-benchmarks-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-okhttp-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-protobuf-lite-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-testing-1.15.0.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

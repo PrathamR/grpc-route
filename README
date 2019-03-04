@@ -1,0 +1,16 @@
+build the gRPC/protobuf (proto3) classes from the .proto. 
+
+This project/lab provides you with an example of building a gRPC client and server using
+packages you download onto your computer - in otherwords, we don't use #*$! maven!
+
+Again, this does not use maven. The purpose is for you to understand the magic that went 
+into building the binary for a java server. This is critical when controling a server
+environment.
+
+Steps:
+
+1. Download the gRPC java codegen plugin from: https://github.com/grpc/grpc-java
+2. Build as instructed
+3. Save/Copy built plugin to your general toolset (e.g., /usr/local/blah)
+4. Modify the protoc paths in the build_pb.sh to match your toolset
+
